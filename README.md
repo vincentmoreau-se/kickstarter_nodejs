@@ -35,7 +35,7 @@ Fill .env file with .env_sample as an example
 npm run migrate
 npm run seed
 ```
-*Start project in dev environnment
+* Start project in dev environnment
 ```bash
 npm start
 ```
