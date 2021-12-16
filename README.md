@@ -25,8 +25,6 @@ TODO
 git clone https://github.com/vincentmoreau-se/kickstarter_nodejs.git
 cd kickstarter_nodejs
 npm install
-npm run migrate
-npm run seed
 ```
 * Configuration
 Fill .env file with .env_sample as an example
