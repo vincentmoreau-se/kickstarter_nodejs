@@ -16,14 +16,14 @@ A sqlite database is used for dev environment and a mysql connector is set for p
 ### How do I get set up? ###
 
 * Dependencies
-node / npm / python2 :
+node / npm  :
 ```bash
-sudo apt-get install python2
 sudo apt-get install curl
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 nvm install --lts
 ```
 A database (posgres or mysql) for production environnement.
+For dev environnement, embedded support of sqlite can be used.
 
 * Database configuration
 TODO
