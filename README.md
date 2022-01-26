@@ -16,12 +16,13 @@ A sqlite database is used for dev environment and a mysql connector is set for p
 ### How do I get set up? ###
 
 * Dependencies
-node / npm
+node / npm / python2
 A database (posgres or mysql) for production environnement.
 * Database configuration
 TODO
 * Summary of set up
 ```bash
+sudo apt-get install python2
 git clone https://github.com/vincentmoreau-se/kickstarter_nodejs.git
 cd kickstarter_nodejs
 npm install
